@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AnimSets",
+    "\\AnimSets\\player",
+    "\\AnimSets\\player\\actions",
+    "\\lua",
+    "\\lua\\client",
+    "\\lua\\client\\TimedActions",
+    "\\lua\\shared",
+    "\\lua\\shared\\Translate",
+    "\\lua\\shared\\Translate\\EN",
+    "\\scripts"
+  ],
+  "SelectedNode": "\\scripts\\Bathroom_WasteProducts.txt",
+  "PreviewInSolutionExplorer": false
+}
