@@ -1,8 +1,7 @@
-name=Bathroom Functions DEV
+name=Bloody Footprints
 poster=poster.png
-id=BFdev
-description=Realism in its harshest form.
-pack=fecal_footsteps
-tiledef=fecal_footsteps 4294
-require=\StarlitLibrary,\MoodleFramework,\DoggyAPI
+id=BloodyFootprints
+description=Track blood when you or zombies walk through it.
+pack=bloody_footsteps
+tiledef=bloody_footsteps 4295
 icon=icon.png
