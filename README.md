@@ -1,5 +1,5 @@
-# 🚽 Bodily Functions | Project Zomboid
-A mod for bodily functions in Project Zomboid.
+# 🩸 Bloody Footprints | Project Zomboid
+A mod that adds bloody footprints when walking on different bloody tiles in Project Zomboid.
 
 # ⚠️ Important Notice
 I own the rights to the assets that do not directly modify built in Project Zomboid assets.
