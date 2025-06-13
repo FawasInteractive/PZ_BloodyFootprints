@@ -115,7 +115,7 @@ end
 
 BloodyFootprints.RemoveFootprint = function(key)
     local data = BloodyFootprints.State.placedFootprints[key]
-    if not data or not data.square or not data.footprint then return end
+    if not data or not data.square or not data.footprint or not data.square:getChunk() then return end
     data.square:RemoveTileObject(data.footprint)
     BloodyFootprints.State.placedFootprints[key] = nil
 end

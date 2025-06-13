@@ -1,6 +1,6 @@
 name=Bloody Footprints
 poster=poster.png
-id=BloodyFootprints
+id=BloodyFootprintsdev
 description=Track blood when you or zombies walk through it.
 pack=bloody_footsteps
 tiledef=bloody_footsteps 4295
